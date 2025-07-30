@@ -131,7 +131,6 @@
     background-image: url(image/counting-backwards.jpg);
     background-position: center;
     background-size: cover;
-  
     transition: 0.3s ease;
       animation: popIn 1s ease-out;;
 }
